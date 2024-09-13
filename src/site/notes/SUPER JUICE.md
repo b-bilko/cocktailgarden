@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/super-juice/","tags":["cocktail"]}
+{"dg-publish":true,"permalink":"/super-juice/","tags":["cocktail","mixer"]}
 ---
 
 ## Description
