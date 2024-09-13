@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/last-word/","tags":["cocktail","green-Chartreuse","Maraschino"]}
+{"dg-publish":true,"permalink":"/last-word/","tags":["cocktail","green-Chartreuse","Maraschino","chambord"]}
 ---
 
 ## Description
@@ -9,7 +9,7 @@
 
 1 oz gin
 1 oz green Chartreuse
-1 oz Maraschino liqueur
+1 oz Maraschino liqueur (Or Sub Chambord)
 1 oz lime juice
 
 ## Method
