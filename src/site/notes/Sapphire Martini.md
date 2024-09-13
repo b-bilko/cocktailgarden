@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sapphire-martini/","tags":["cocktail"]}
+{"dg-publish":true,"permalink":"/sapphire-martini/","tags":["cocktail","blue_curaçao","dry-vermouth"]}
 ---
 
 ## Description

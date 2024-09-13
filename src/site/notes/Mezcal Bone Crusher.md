@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mezcal-bone-crusher/","tags":["cocktail"]}
+{"dg-publish":true,"permalink":"/mezcal-bone-crusher/","tags":["cocktail","Mezcal"]}
 ---
 
 ## Description

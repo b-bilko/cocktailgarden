@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/improved-whiskey-cocktail/","tags":["cocktail"]}
+{"dg-publish":true,"permalink":"/improved-whiskey-cocktail/","tags":["cocktail","bourbon","dry-vermouth","Maraschino"]}
 ---
 
 ## Description

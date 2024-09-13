@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/midnight-daiquiri/","tags":["cocktail"]}
+{"dg-publish":true,"permalink":"/midnight-daiquiri/","tags":["cocktail","Overproof-Dark-Rum"]}
 ---
 
 ## Description

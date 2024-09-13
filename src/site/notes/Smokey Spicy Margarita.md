@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/smokey-spicy-margarita/","tags":["cocktail"]}
+{"dg-publish":true,"permalink":"/smokey-spicy-margarita/","tags":["cocktail","Cointreau","whiskey"]}
 ---
 
 ## Description

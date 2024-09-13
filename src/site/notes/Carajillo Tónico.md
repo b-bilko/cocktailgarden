@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/carajillo-tonico/","tags":["cocktail"]}
+{"dg-publish":true,"permalink":"/carajillo-tonico/","tags":["cocktail","espresso","Licor-43","Patron-XO"]}
 ---
 
 ## Description

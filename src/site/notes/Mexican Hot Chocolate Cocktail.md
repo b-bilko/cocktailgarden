@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mexican-hot-chocolate-cocktail/","tags":["cocktail"]}
+{"dg-publish":true,"permalink":"/mexican-hot-chocolate-cocktail/","tags":["cocktail","Kahlua","Mezcal"]}
 ---
 
 ## Description

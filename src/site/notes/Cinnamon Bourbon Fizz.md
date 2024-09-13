@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cinnamon-bourbon-fizz/","tags":["cocktail"]}
+{"dg-publish":true,"permalink":"/cinnamon-bourbon-fizz/","tags":["cocktail","bourbon","aperol","lemon"]}
 ---
 
 ## Description

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hemingway-daiquiri/","tags":["cocktail"]}
+{"dg-publish":true,"permalink":"/hemingway-daiquiri/","tags":["cocktail","Maraschino","rum-dark"]}
 ---
 
 ## Description

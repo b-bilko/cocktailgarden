@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paloma/","tags":["cocktail"]}
+{"dg-publish":true,"permalink":"/paloma/","tags":["cocktail","Mezcal"]}
 ---
 
 ## Description

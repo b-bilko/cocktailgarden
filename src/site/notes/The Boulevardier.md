@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-boulevardier/","tags":["cocktail"]}
+{"dg-publish":true,"permalink":"/the-boulevardier/","tags":["cocktail","Campari","scotch","Sweet-Vermouth"]}
 ---
 
 ## Description

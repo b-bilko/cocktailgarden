@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mulled-old-fashioned/","tags":["cocktail"]}
+{"dg-publish":true,"permalink":"/mulled-old-fashioned/","tags":["cocktail","bourbon"]}
 ---
 
 ## Description

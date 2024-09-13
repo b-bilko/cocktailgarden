@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/espresso-martini-angostura/","tags":["cocktail"]}
+{"dg-publish":true,"permalink":"/espresso-martini-angostura/","tags":["cocktail","Vodka","coffee-liqueur"]}
 ---
 
 ## Description
@@ -7,8 +7,8 @@
 
 ## Ingredients
 
-1 ½ oz Tito’s Vodka 
-½ oz Coffee liqueur 
+1  oz Tito’s Vodka 
+1 oz Coffee liqueur (Mr Blacks)
 1 oz Brewed espresso coffee 
 ½ oz Simple syrup (1-1) 
 6 dashes ANGOSTURA® cocoa bitters

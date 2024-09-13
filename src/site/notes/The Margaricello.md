@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-margaricello/","tags":["cocktail"]}
+{"dg-publish":true,"permalink":"/the-margaricello/","tags":["cocktail","Limoncello","Tequila"]}
 ---
 
 ## Description

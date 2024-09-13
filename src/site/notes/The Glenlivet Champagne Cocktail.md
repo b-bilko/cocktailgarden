@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-glenlivet-champagne-cocktail/","tags":["cocktail"]}
+{"dg-publish":true,"permalink":"/the-glenlivet-champagne-cocktail/","tags":["cocktail","Champagne","scotch"]}
 ---
 
 

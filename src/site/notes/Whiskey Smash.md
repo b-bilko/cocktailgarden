@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/whiskey-smash/","tags":["cocktail"]}
+{"dg-publish":true,"permalink":"/whiskey-smash/","tags":["cocktail","Bourbon"]}
 ---
 
 ## Description

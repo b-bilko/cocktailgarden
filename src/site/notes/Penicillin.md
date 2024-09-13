@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/penicillin/","tags":["cocktail"]}
+{"dg-publish":true,"permalink":"/penicillin/","tags":["cocktail","scotch","Islay-whiskey"]}
 ---
 
 ## Description

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paper-plane/","tags":["cocktail"]}
+{"dg-publish":true,"permalink":"/paper-plane/","tags":["cocktail","bourbon","Aperol","Amaro"]}
 ---
 
 ## Description

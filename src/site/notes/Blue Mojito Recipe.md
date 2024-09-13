@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blue-mojito-recipe/","tags":["cocktail"]}
+{"dg-publish":true,"permalink":"/blue-mojito-recipe/","tags":["cocktail","mint","rum-white","blue_curaçao","lime"]}
 ---
 
 ## Description

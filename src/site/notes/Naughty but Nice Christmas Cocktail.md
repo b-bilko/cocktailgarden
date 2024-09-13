@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/naughty-but-nice-christmas-cocktail/","tags":["cocktail"]}
+{"dg-publish":true,"permalink":"/naughty-but-nice-christmas-cocktail/","tags":["cocktail","rye","bourbon","Vodka"]}
 ---
 
 ## Description

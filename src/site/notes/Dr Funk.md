@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dr-funk/","tags":["cocktail"]}
+{"dg-publish":true,"permalink":"/dr-funk/","tags":["cocktail","absinthe","rum-dark"]}
 ---
 
 ## Description

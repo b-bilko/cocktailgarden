@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fancy-free/","tags":["cocktail"]}
+{"dg-publish":true,"permalink":"/fancy-free/","tags":["cocktail","bourbon","maraschino"]}
 ---
 
 ## Description

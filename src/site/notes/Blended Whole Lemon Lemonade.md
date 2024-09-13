@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blended-whole-lemon-lemonade/","tags":["cocktail","softdrink"]}
+{"dg-publish":true,"permalink":"/blended-whole-lemon-lemonade/","tags":["cocktail","softdrink","lemon"]}
 ---
 
 ## Description

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dave-arnold-s-frozen-margarita/","tags":["cocktail"]}
+{"dg-publish":true,"permalink":"/dave-arnold-s-frozen-margarita/","tags":["cocktail","Cointreau","Mezcal","Yellow-Chartreuse"]}
 ---
 
 ## Description

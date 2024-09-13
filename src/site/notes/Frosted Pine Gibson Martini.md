@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/frosted-pine-gibson-martini/","tags":["cocktail"]}
+{"dg-publish":true,"permalink":"/frosted-pine-gibson-martini/","tags":["cocktail","gin","dry-vermouth"]}
 ---
 
 ## Description

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oaxaca-old-fashioned-with-mezcal/","tags":["cocktail"]}
+{"dg-publish":true,"permalink":"/oaxaca-old-fashioned-with-mezcal/","tags":["cocktail","mezcal","tequila"]}
 ---
 
 ## Description

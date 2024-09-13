@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/old-fashioned-tea/","tags":["cocktail"]}
+{"dg-publish":true,"permalink":"/old-fashioned-tea/","tags":["cocktail","whiskey"]}
 ---
 
 ## Description
