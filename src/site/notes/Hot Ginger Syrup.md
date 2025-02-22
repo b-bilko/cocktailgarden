@@ -18,3 +18,4 @@
  Blend until hot and dissolved (can also do this on the stove in a saucepan) 
  Funnel into bottle
 ## Picture
+
