@@ -17,6 +17,16 @@
 
 Build in shaker, shake serve in martini glass, garnich with Coffee beans 
 
+Double batch
+1 vodka 
+2 peanut whiskey 
+1 Mozart liquor 
+2 Espresso 
+1 Demerara syrup 
+6 cocoa butters
+
+
+
 
 
 
